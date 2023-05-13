@@ -428,13 +428,13 @@ body{
     }
 
     .laConferencia{
-        justify-content: center;
         width: auto;
     }
 
     .cajaConferencia{
+        margin: 0 auto;
         text-align: center;
-        align-content: center;
+        align-items: center;
         justify-content: center;
     }
 

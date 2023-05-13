@@ -429,7 +429,7 @@ body{
 
     .laConferencia{
         justify-content: center;
-        width: 100%;
+        width: auto;
     }
 
     .cajaConferencia{
@@ -574,7 +574,7 @@ body{
 
     .laConferencia{
         justify-content: center;
-        width: 100%;
+        width: auto;
     }
 
     .cajaConferencia{
